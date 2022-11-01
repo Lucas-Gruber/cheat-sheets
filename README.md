@@ -1,4 +1,4 @@
-# Lucas's "Cheat-Sheets"test
+# Lucas's "Cheat-Sheets"
 
 Hi, there! 👋
 
