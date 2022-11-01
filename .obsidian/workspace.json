@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "48591c76d1ed498a",
+    "type": "split",
+    "children": [
+      {
+        "id": "06b99146a051e387",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06cb616ce1110aa2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "READMEtest.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1d96f1333be23822",
+    "type": "split",
+    "children": [
+      {
+        "id": "36e2ac08038d8e8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f96dafc1734869fc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4d04238ab7996a8e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c6fee009ed7c82bf",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eb7dd0d1c3e6394d",
+    "type": "split",
+    "children": [
+      {
+        "id": "92f35c3fe52d1b52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "933567dd7c608bd9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "READMEtest.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eb33157ab5482893",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "READMEtest.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5f1fe25cb89749ed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bfc3e2d9c03971ad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "READMEtest.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f96dafc1734869fc",
+  "lastOpenFiles": [
+    "2022-11-01.md"
+  ]
+}
