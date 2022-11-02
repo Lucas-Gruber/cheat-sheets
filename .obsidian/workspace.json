@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/docker.md",
+                "file": "misc/color-codes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docker/docker.md",
+                "file": "misc/color-codes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docker/docker.md",
+                "file": "misc/color-codes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker/docker.md"
+                "file": "misc/color-codes.md"
               }
             }
           }
@@ -138,6 +138,7 @@
   },
   "active": "c70f033540037e81",
   "lastOpenFiles": [
+    "docker/docker.md",
     "Untitled.md",
     "misc/ssl-security.md",
     "misc/ssl-certs.md",
@@ -146,7 +147,6 @@
     "misc/color-codes.md",
     "macos/vscode-macos-shortcuts.md",
     "macos/macos-shortcuts.md",
-    "macos/docker-on-macos-silicon.md",
-    "macos/chrome-on-macos.md"
+    "macos/docker-on-macos-silicon.md"
   ]
 }
