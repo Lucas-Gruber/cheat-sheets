@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/color-codes.md",
+                "file": "databases/mysql.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/color-codes.md",
+                "file": "databases/mysql.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc/color-codes.md",
+                "file": "databases/mysql.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "misc/color-codes.md"
+                "file": "databases/mysql.md"
               }
             }
           }
@@ -136,15 +136,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c70f033540037e81",
+  "active": "f96dafc1734869fc",
   "lastOpenFiles": [
+    "misc/color-codes.md",
     "docker/docker.md",
     "Untitled.md",
     "misc/ssl-security.md",
     "misc/ssl-certs.md",
     "misc/markdown.md",
     "misc/http-status-codes.md",
-    "misc/color-codes.md",
     "macos/vscode-macos-shortcuts.md",
     "macos/macos-shortcuts.md",
     "macos/docker-on-macos-silicon.md"
