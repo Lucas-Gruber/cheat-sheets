@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "docker/docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "docker/docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "docker/docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "docker/docker.md"
               }
             }
           }
@@ -139,7 +139,14 @@
   "active": "c70f033540037e81",
   "lastOpenFiles": [
     "Untitled.md",
-    "README.md",
-    "2022-11-01.md"
+    "misc/ssl-security.md",
+    "misc/ssl-certs.md",
+    "misc/markdown.md",
+    "misc/http-status-codes.md",
+    "misc/color-codes.md",
+    "macos/vscode-macos-shortcuts.md",
+    "macos/macos-shortcuts.md",
+    "macos/docker-on-macos-silicon.md",
+    "macos/chrome-on-macos.md"
   ]
 }
