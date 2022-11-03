@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "755b48a9de2db4f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "apps/vaultwarden.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c42193a36962f12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "apps/checkmk.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "databases/mysql.md",
+                "file": "apps/checkmk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "databases/mysql.md",
+                "file": "apps/checkmk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "databases/mysql.md"
+                "file": "apps/checkmk.md"
               }
             }
           }
@@ -136,8 +161,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f96dafc1734869fc",
+  "active": "2c42193a36962f12",
   "lastOpenFiles": [
+    "apps/vaultwarden.md",
+    "databases/mysql.md",
     "misc/color-codes.md",
     "docker/docker.md",
     "Untitled.md",
@@ -145,8 +172,6 @@
     "misc/ssl-certs.md",
     "misc/markdown.md",
     "misc/http-status-codes.md",
-    "macos/vscode-macos-shortcuts.md",
-    "macos/macos-shortcuts.md",
-    "macos/docker-on-macos-silicon.md"
+    "macos/vscode-macos-shortcuts.md"
   ]
 }
