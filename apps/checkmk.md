@@ -18,4 +18,6 @@ Monitor all your Services and Apps
 	   --restart always
 	   checkmk/check-mk-raw:2.1.0-latest
    ```
-   2. Navigate to [http://localhost:8080/cmk/check_mk/](http://localhost:8080/cmk/check_mk/) 
+   2. Navigate to [http://localhost:8080/cmk/check_mk/](http://localhost:8080/cmk/check_mk/) and Login with the Credentials
+	   1. The Default User is: `cmkadmin`
+	   2. The Password is in the logs written for this Container 
