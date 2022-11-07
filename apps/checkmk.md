@@ -83,8 +83,10 @@ Backing up a site with `omd backup` does not require `root` permissions.
 >[!info]-
 test
 
-> [!] 
-> test
+> [!FAQ]- Are callouts foldable?
+Yes! In a foldable callout, the contents are hidden until it is expanded.
+	test
+test
 
 ### Backup/Restore with GUI
 tst
