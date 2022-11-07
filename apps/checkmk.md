@@ -77,15 +77,7 @@ In order to create backups on the source system and later 'restore' them on a ta
 ***Note**: Checkmk also offers the possibility of performing backups and restores without using the command line, via the [GUI](#^78d8ec).*
 
 Backing up a site with `omd backup` does not require `root` permissions.
-> [!INFO] this is nice
-> Here's a callout block.
 
->[!info]-
-test
-
-> [!question] Can callouts be nested?
-> > [!todo] Yes!, they can. 
-> > > [!example] You can even use multiple layers of nesting.
 
 ### Backup/Restore with GUI
 tst
