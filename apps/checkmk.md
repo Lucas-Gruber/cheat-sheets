@@ -20,4 +20,7 @@ Monitor all your Services and Apps
    ```
    2. Navigate to [http://localhost:8080/cmk/check_mk/](http://localhost:8080/cmk/check_mk/) and Login with the Credentials
 	   1. The Default User is: `cmkadmin`
-	   2. The Password is in the logs written for this Container 
+	   2. The Password is in the logs written for this Container (
+	      ```bash
+	      
+	      )
