@@ -2,9 +2,10 @@
 Monitor all your Services and Apps
 
 ---
-## Deployment
+## Installation
 
-### Deploy with [[Docker]]
+### As [[Docker]]-Container
 1. Run Docker.
    ```bash
+   docker run 
    ```

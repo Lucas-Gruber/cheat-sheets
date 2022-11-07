@@ -163,10 +163,10 @@
   },
   "active": "2c42193a36962f12",
   "lastOpenFiles": [
+    "apps/argocd.md",
+    "apps/checkmk.md",
     "apps/grafana.md",
     "apps/prometheus.md",
-    "apps/checkmk.md",
-    "apps/argocd.md",
     "apps/cert-manager.md",
     "apps/portainer.md",
     "apps/rancher.md",
