@@ -27,5 +27,10 @@ Monitor all your Services and Apps
 1. Run Docker.
 	1. Download the desired edition and version from the [Checkmk download page](https://checkmk.com/download?method=docker&edition=cfe&version=stable) (for the Free Edition) or from the [Checkmk customer portal](https://portal.checkmk.com/).
 	2. Load the image from the downloaded tar archive file into Docker.
-	   `docker `
-	   
+	   `docker load -i check-mk-enterprise-docker-2.1.0p5.tar.gz`
+	3. You can then start the container with a very similar command to that described above.
+	   ```bash
+	   docker container run
+	   -dit
+	   -p 8080:5000 -p 8000:8000 --tmpfs /opt/omd/sites/cmk/tmp:uid=1000,gid=1000 -v monitoring:/omd/sites --name monitoring -v /etc/localtime:/etc/localtime:ro --restart always checkmk/check-mk-enterprise:2.1.0p5
+	   ```
