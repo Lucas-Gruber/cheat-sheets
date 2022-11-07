@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "apps/checkmk.md",
+                "file": "kubernetes/k3s.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "apps/checkmk.md",
+                "file": "kubernetes/k3s.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "apps/checkmk.md",
+                "file": "kubernetes/k3s.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "apps/checkmk.md"
+                "file": "kubernetes/k3s.md"
               }
             }
           }
@@ -164,17 +164,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c70f033540037e81",
+  "active": "f96dafc1734869fc",
   "lastOpenFiles": [
-    "docker/docker-networking.md",
+    "infra/truenas-scale.md",
+    "infra/proxmox.md",
     "apps/checkmk.md",
+    "docker/docker-networking.md",
     "apps/grafana.md",
     "docker/docker.md",
     "apps/kasm.md",
     "apps/argocd.md",
     "apps/cert-manager.md",
-    "[[.md",
-    "apps/prometheus.md",
-    "apps/portainer.md"
+    "[[.md"
   ]
 }
