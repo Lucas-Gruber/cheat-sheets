@@ -76,7 +76,8 @@ In order to create backups on the source system and later 'restore' them on a ta
 ### Backup/Restore with OMD
 #### Creating a Backup
 *Note: Checkmk also offers the possibility of performing backups and restores without using the command line, via the [GUI](#Backup/Restore with GUI).* **Fix GUI Link to Header**
-
+```ad-bug
+```
 
 
 ## Backup/Restore with GUI
