@@ -28,8 +28,8 @@ Monitor all your Services and Apps
 1. Run Docker.
 	1. Download the desired edition and version from the [Checkmk download page](https://checkmk.com/download?method=docker&edition=cfe&version=stable) (for the Free Edition) or from the [Checkmk customer portal](https://portal.checkmk.com/).
 	2. Load the image from the downloaded tar archive file into Docker.
-	   `docker load -i check-mk-enterprise-docker-2.1.0p5.tar.gz`
-	3. You can then start the container with a very similar command to that described above.
+		   `docker load -i check-mk-enterprise-docker-2.1.0p5.tar.gz`
+	1. You can then start the container with a very similar command to that described above.
 	   ```bash
 	   docker container run
 	   -dit
@@ -49,4 +49,6 @@ Monitor all your Services and Apps
 #### Debian/Ubuntu
 1. Download the appropriate Package
 	   If you have a subscription, in the Checkmk [customer portal](https://portal.checkmk.com/)  you will find a suitable RPM or DEB package for your distribution for every available [Checkmk](https://docs.checkmk.com/latest/en/cmk_versions.html) version. For a free test or smaller installations of Checkmk you can use our [free editions](https://checkmk.com/de/download).
+	   
+	   To be able to copy files to your future Checkmk server, 
 2. 
