@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "apps/vaultwarden.md",
+                "file": "apps/argocd.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "apps/checkmk.md",
+                "file": "apps/argocd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "apps/checkmk.md",
+                "file": "apps/argocd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "apps/checkmk.md"
+                "file": "apps/argocd.md"
               }
             }
           }
@@ -161,17 +161,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2c42193a36962f12",
+  "active": "755b48a9de2db4f9",
   "lastOpenFiles": [
-    "apps/kasm.md",
+    "apps/cert-manager.md",
     "apps/checkmk.md",
     "apps/grafana.md",
-    "databases/mysql.md",
-    "apps/vaultwarden.md",
     "apps/portainer.md",
-    "apps/longhorn.md",
-    "apps/nginx.md",
-    "apps/argocd.md",
-    "apps/cert-manager.md"
+    "apps/rancher.md",
+    "infra/truenas-scale.md",
+    "infra/proxmox.md",
+    "cloud/what-is-cloud-computing.md",
+    "databases/postgres.md",
+    "databases/sqlite.md"
   ]
 }
