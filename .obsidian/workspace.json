@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "databases/mysql.md",
+                "file": "apps/kasm.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "apps/grafana.md",
+                "file": "apps/checkmk.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "apps/grafana.md",
+                "file": "apps/checkmk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "apps/grafana.md",
+                "file": "apps/checkmk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "apps/grafana.md"
+                "file": "apps/checkmk.md"
               }
             }
           }
@@ -163,15 +163,15 @@
   },
   "active": "2c42193a36962f12",
   "lastOpenFiles": [
-    "apps/checkmk.md",
-    "apps/argocd.md",
     "apps/kasm.md",
+    "apps/checkmk.md",
     "apps/grafana.md",
-    "apps/cert-manager.md",
-    "apps/vaultwarden.md",
     "databases/mysql.md",
-    "misc/color-codes.md",
-    "docker/docker.md",
-    "Untitled.md"
+    "apps/vaultwarden.md",
+    "apps/portainer.md",
+    "apps/longhorn.md",
+    "apps/nginx.md",
+    "apps/argocd.md",
+    "apps/cert-manager.md"
   ]
 }

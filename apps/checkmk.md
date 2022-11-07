@@ -1,2 +1,4 @@
 # CheckMK
-CheckMK Monitors Services and Apps
+Monitor all your Services and Apps
+
+---
