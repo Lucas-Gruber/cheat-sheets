@@ -26,4 +26,5 @@ Monitor all your Services and Apps
 #### Enterprise-Version
 1. Run Docker.
 	1. Download the desired edition and version from the [Checkmk download page](https://checkmk.com/download?method=docker&edition=cfe&version=stable) (for the Free Edition) or from the [Checkmk customer portal](https://portal.checkmk.com/).
-	2. Load the image from the downloaded tar archive file into Docker
+	2. Load the image from the downloaded tar archive file into Docker.```docker load -i check-mk-enterprise-docker-2.1.0p5.tar.gz```
+	   
