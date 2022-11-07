@@ -164,6 +164,7 @@
   "active": "2c42193a36962f12",
   "lastOpenFiles": [
     "apps/argocd.md",
+    "apps/kasm.md",
     "apps/checkmk.md",
     "apps/grafana.md",
     "apps/prometheus.md",
@@ -171,7 +172,6 @@
     "apps/portainer.md",
     "apps/rancher.md",
     "infra/truenas-scale.md",
-    "infra/proxmox.md",
-    "cloud/what-is-cloud-computing.md"
+    "infra/proxmox.md"
   ]
 }
