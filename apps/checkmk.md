@@ -54,4 +54,7 @@ Monitor all your Services and Apps
 		   `apt install dpkg-sig`
 	2. Download the public key from checkmk
 		   `wget https://download.checkmk.com/checkmk/Check_MK-pubkey.gpg`
-	3. Impoirt 
+	3. Import the key
+		   `gpg --import Check_MK-pubkey.gpg`
+	4. Verify the Checkmk package
+		   `dpkg-sig --verify `
