@@ -5,7 +5,8 @@ Monitor all your Services and Apps
 ## Installation
 
 ### As [[Docker]]-Container
-#### Raw-Version
+
+#### Raw-Edition
 1. Run Docker.
    ```bash
    docker container run 
@@ -23,7 +24,7 @@ Monitor all your Services and Apps
 	   2. The Default User is: `cmkadmin`
 	   3. The Password is in the logs written for this Container (`docker container logs [name]`)
 
-#### Enterprise-Version
+#### Enterprise-Edition
 1. Run Docker.
 	1. Download the desired edition and version from the [Checkmk download page](https://checkmk.com/download?method=docker&edition=cfe&version=stable) (for the Free Edition) or from the [Checkmk customer portal](https://portal.checkmk.com/).
 	2. Load the image from the downloaded tar archive file into Docker.
@@ -41,4 +42,4 @@ Monitor all your Services and Apps
 	   --restart always
 	   checkmk/check-mk-enterprise:2.1.0p5
 	   ```
-	4. After starting the container, you can log in to the Checkmk web interface as described at the [test]([[#Raw-Version]])
+	4. After starting the container, you can log in to the Checkmk web interface as described at the [Installation of the Raw Edition](#Raw-Version).
