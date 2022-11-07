@@ -49,5 +49,5 @@ Monitor all your Services and Apps
 #### Debian/Ubuntu
 1. Download the appropriate Package
 	   If you have a subscription, in the Checkmk [customer portal](https://portal.checkmk.com/)  you will find a suitable RPM or DEB package for your distribution for every available [Checkmk](https://docs.checkmk.com/latest/en/cmk_versions.html) version. For a free test or smaller installations of Checkmk you can use our [free editions](https://checkmk.com/de/download).
-	   
-2. 
+2. Signed-package installation.
+	1. Depending on which optional packages were installed during the setup of your distribution, aou will need 
