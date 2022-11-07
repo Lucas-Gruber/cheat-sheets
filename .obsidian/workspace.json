@@ -150,11 +150,11 @@
   },
   "active": "c70f033540037e81",
   "lastOpenFiles": [
-    "docker/docker.md",
+    "apps/grafana.md",
     "apps/checkmk.md",
+    "docker/docker.md",
     "apps/kasm.md",
     "apps/argocd.md",
-    "apps/grafana.md",
     "apps/cert-manager.md",
     "[[.md",
     "apps/prometheus.md",
