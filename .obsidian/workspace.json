@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "apps/argocd.md",
+                "file": "apps/grafana.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "apps/argocd.md",
+                "file": "apps/grafana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "apps/argocd.md",
+                "file": "apps/grafana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "apps/argocd.md"
+                "file": "apps/grafana.md"
               }
             }
           }
@@ -164,14 +164,14 @@
   "active": "2c42193a36962f12",
   "lastOpenFiles": [
     "apps/checkmk.md",
+    "apps/argocd.md",
+    "apps/kasm.md",
     "apps/grafana.md",
+    "apps/cert-manager.md",
     "apps/vaultwarden.md",
     "databases/mysql.md",
     "misc/color-codes.md",
     "docker/docker.md",
-    "Untitled.md",
-    "misc/ssl-security.md",
-    "misc/ssl-certs.md",
-    "misc/markdown.md"
+    "Untitled.md"
   ]
 }
