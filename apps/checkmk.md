@@ -85,7 +85,8 @@ Backing up a site with `omd backup` does not require `root` permissions.
 >[!INFO]
 test
 
-> [!]
+> [!hint] 
+> test
 
 ### Backup/Restore with GUI
 tst
