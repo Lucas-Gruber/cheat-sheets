@@ -70,4 +70,10 @@ Monitor all your Services and Apps
 In order to create backups on the source system and later 'restore' them on a target system, two main requirements must be met:
 1. The exact same Checkmk version must be installed on both systems, e.g. `2.1.0p1`.
 2. Both systems must have the same Checkmk edition installed, e.g. the **Checkmk Raw Edition**
-*Note: the *
+
+*Note: the system platform is not relevant*
+
+### Backup/Restore with OMD
+
+
+## Backup/Restore with GUI
