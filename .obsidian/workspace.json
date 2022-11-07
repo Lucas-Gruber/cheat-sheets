@@ -30,6 +30,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b25ac53b02211887",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "b5d97bb600c6983a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
@@ -150,8 +166,8 @@
   },
   "active": "c70f033540037e81",
   "lastOpenFiles": [
-    "apps/grafana.md",
     "apps/checkmk.md",
+    "apps/grafana.md",
     "docker/docker.md",
     "apps/kasm.md",
     "apps/argocd.md",
