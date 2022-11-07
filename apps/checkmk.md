@@ -61,4 +61,4 @@ Monitor all your Services and Apps
 	5. Install the Checkmk package
 		   `apt install [/path/to/.deb-file]`
 3. Final test
-	   
+	   After the successful installation of Checkmk, and all dependencies, you will have access to the omd command. With this command you are able to create and manage monitoring sites. You can request the installed version to verify your installation
