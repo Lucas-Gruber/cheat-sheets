@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Prerequisites",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -149,17 +148,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4d04238ab7996a8e",
+  "active": "c70f033540037e81",
   "lastOpenFiles": [
+    "docker/docker.md",
+    "apps/checkmk.md",
     "apps/kasm.md",
     "apps/argocd.md",
     "apps/grafana.md",
-    "apps/checkmk.md",
     "apps/cert-manager.md",
     "[[.md",
     "apps/prometheus.md",
     "apps/portainer.md",
-    "apps/rancher.md",
-    "infra/truenas-scale.md"
+    "apps/rancher.md"
   ]
 }
