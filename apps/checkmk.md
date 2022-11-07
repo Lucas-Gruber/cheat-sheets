@@ -41,4 +41,4 @@ Monitor all your Services and Apps
 	   --restart always
 	   checkmk/check-mk-enterprise:2.1.0p5
 	   ```
-	4. After starting the container, you can log in to the Checkmk web interface as described at the [[Raw-Version]]
+	4. After starting the container, you can log in to the Checkmk web interface as described at the [#Raw-Version](test)
