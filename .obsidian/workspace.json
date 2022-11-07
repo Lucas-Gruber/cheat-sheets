@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "apps/argocd.md",
+                "file": "apps/checkmk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "apps/argocd.md",
+                "file": "apps/checkmk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "apps/argocd.md"
+                "file": "apps/checkmk.md"
               }
             }
           }
@@ -161,17 +161,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "755b48a9de2db4f9",
+  "active": "2c42193a36962f12",
   "lastOpenFiles": [
-    "apps/cert-manager.md",
-    "apps/checkmk.md",
     "apps/grafana.md",
+    "apps/prometheus.md",
+    "apps/checkmk.md",
+    "apps/argocd.md",
+    "apps/cert-manager.md",
     "apps/portainer.md",
     "apps/rancher.md",
     "infra/truenas-scale.md",
     "infra/proxmox.md",
-    "cloud/what-is-cloud-computing.md",
-    "databases/postgres.md",
-    "databases/sqlite.md"
+    "cloud/what-is-cloud-computing.md"
   ]
 }
