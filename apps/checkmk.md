@@ -19,7 +19,7 @@ Monitor all your Services and Apps
 	   -v /etc/localtime:/etc/localtime:ro
 	   --restart always
 	   checkmk/check-mk-raw:2.1.0-latest
-   ```
+   ``` ^ad76d6
    2. Navigate to [http://localhost:8080/cmk/check_mk/](http://localhost:8080/cmk/check_mk/) and Login with the Credentials.
 	   2. The Default User is: `cmkadmin`
 	   3. The Password is in the logs written for this Container (`docker container logs [name]`) ^a589e5
@@ -76,7 +76,8 @@ In order to create backups on the source system and later 'restore' them on a ta
 ### Backup/Restore with OMD
 
 #### Creating a Backup
-***Note**: Checkmk also offers the possibility of performing backups and restores without using the command line, via the [GUI](#^a36cfa).*  [[#Backup/Restore with GUI]]
+***Note**: Checkmk also offers the possibility of performing backups and restores without using the command line, via the [GUI](#Backup/Restore with GUI).*  [[#^backup
+]]
 
 ```ad-bug
 	Fix GUI-Link to Header
@@ -84,5 +85,13 @@ In order to create backups on the source system and later 'restore' them on a ta
 
 1. Backing up a site  with 
 
-## Backup/Restore with GUI
+### Backup/Restore with GUI
 test
+test
+test
+t
+est
+se
+tse
+t
+wes
