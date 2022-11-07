@@ -50,5 +50,4 @@ Monitor all your Services and Apps
 1. Download the appropriate Package
 	   If you have a subscription, in the Checkmk [customer portal](https://portal.checkmk.com/)  you will find a suitable RPM or DEB package for your distribution for every available [Checkmk](https://docs.checkmk.com/latest/en/cmk_versions.html) version. For a free test or smaller installations of Checkmk you can use our [free editions](https://checkmk.com/de/download).
 	   
-	   To be able to copy files to your future Checkmk server, 
 2. 
