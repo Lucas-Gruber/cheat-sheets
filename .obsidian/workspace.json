@@ -151,13 +151,13 @@
   },
   "active": "755b48a9de2db4f9",
   "lastOpenFiles": [
+    "apps/cert-manager.md",
+    "apps/checkmk.md",
     "apps/argocd.md",
     "[[.md",
-    "apps/checkmk.md",
     "apps/kasm.md",
     "apps/grafana.md",
     "apps/prometheus.md",
-    "apps/cert-manager.md",
     "apps/portainer.md",
     "apps/rancher.md",
     "infra/truenas-scale.md"
