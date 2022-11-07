@@ -47,4 +47,6 @@ Monitor all your Services and Apps
 ### Bare Metal Installation
 
 #### Debian/Ubuntu
-1. If you have a subscription, in the Checkmk customer portal you will find a suitable RPM or DEB package for your distribution for every available Checkmk version. For a free test or smaller installations of Checkmk you can use our free editions.
+1. Download the appropriate Package
+	   If you have a subscription, in the Checkmk customer portal you will find a suitable RPM or DEB package for your distribution for every available Checkmk version. For a free test or smaller installations of Checkmk you can use our free editions.
+	   
