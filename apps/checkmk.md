@@ -79,9 +79,12 @@ In order to create backups on the source system and later 'restore' them on a ta
 ```ad-bug
 	Fix GUI-Link to Header
 ```
-```ad-note
-	Backing up a site with *omd backup does not require root permissions. A site user can perform this. Simply enter as an argument the name of the backup file to be created
-```
+````ad-note
+	Backing up a site with 
+	```bash
+	 omd backup
+	 ``` does not require root permissions. A site user can perform this. Simply enter as an argument the name of the backup file to be created
+````
 2. Backing up a site  with 
 
 ## Backup/Restore with GUI
