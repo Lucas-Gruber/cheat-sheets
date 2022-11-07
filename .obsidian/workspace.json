@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "apps/kasm.md",
+                "file": "apps/checkmk.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "apps/checkmk.md",
+                "file": "apps/argocd.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,14 +148,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "755b48a9de2db4f9",
+  "active": "c70f033540037e81",
   "lastOpenFiles": [
-    "apps/cert-manager.md",
-    "apps/checkmk.md",
-    "apps/argocd.md",
-    "[[.md",
     "apps/kasm.md",
+    "apps/argocd.md",
     "apps/grafana.md",
+    "apps/checkmk.md",
+    "apps/cert-manager.md",
+    "[[.md",
     "apps/prometheus.md",
     "apps/portainer.md",
     "apps/rancher.md",
