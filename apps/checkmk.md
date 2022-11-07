@@ -47,4 +47,6 @@ Monitor all your Services and Apps
 ### Bare Metal Installation
 
 #### Debian/Ubuntu
-1. Download the 
+	1. Download the appropriate Packages
+	   
+	2. 
