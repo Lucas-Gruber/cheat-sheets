@@ -60,4 +60,5 @@ Monitor all your Services and Apps
 		   `dpkg-sig --verify check-mk-raw-[version].focal_amd64.deb`
 	5. Install the Checkmk package
 		   `apt install [/path/to/.deb-file]`
-	6.
+3. Final test
+	   
