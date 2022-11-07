@@ -52,4 +52,6 @@ Monitor all your Services and Apps
 2. Signed-package installation.
 	1. Depending on which optional packages were installed during the setup of your distribution, you will need to install `dpkg-sig` including all of its dependencies for successful verification.
 		   `apt install dpkg-sig`
-	2. 
+	2. Download the public key from checkmk
+		   `wget https://download.checkmk.com/checkmk/Check_MK-pubkey.gpg`
+	3. Impoirt 
