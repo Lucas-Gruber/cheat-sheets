@@ -22,7 +22,7 @@ Monitor all your Services and Apps
    ```
    2. Navigate to [http://localhost:8080/cmk/check_mk/](http://localhost:8080/cmk/check_mk/) and Login with the Credentials.
 	   2. The Default User is: `cmkadmin`
-	   3. The Password is in the logs written for this Container (`docker container logs [name]`)
+	   3. The Password is in the logs written for this Container (`docker container logs [name]`) ^a589e5
 
 #### Enterprise-Edition
 1. Run Docker.
@@ -42,4 +42,4 @@ Monitor all your Services and Apps
 	   --restart always
 	   checkmk/check-mk-enterprise:2.1.0p5
 	   ```
-	4. After starting the container, you can log in to the Checkmk web interface as described at the [Installation of the Raw Edition](#Raw-Edition^). [[]]
+	4. After starting the container, you can log in to the Checkmk web interface as described at the [Installation of the Raw Edition](#^a589e5).
