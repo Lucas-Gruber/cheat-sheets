@@ -58,4 +58,6 @@ Monitor all your Services and Apps
 		   `gpg --import Check_MK-pubkey.gpg`
 	4. Verify the Checkmk package
 		   `dpkg-sig --verify check-mk-raw-[version].focal_amd64.deb`
-	5. 
+	5. Install the Checkmk package
+		   `apt install [/path/to/.deb-file]`
+	6.
