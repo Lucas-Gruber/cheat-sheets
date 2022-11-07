@@ -8,7 +8,6 @@ Monitor all your Services and Apps
 
 #### Raw-Edition
 1. Run Docker.
-   ```bash
    docker container run 
 	   -dit
 	   -p 8080:5000
@@ -19,7 +18,6 @@ Monitor all your Services and Apps
 	   -v /etc/localtime:/etc/localtime:ro
 	   --restart always
 	   checkmk/check-mk-raw:2.1.0-latest
-   ``` ^ad76d6
    2. Navigate to [http://localhost:8080/cmk/check_mk/](http://localhost:8080/cmk/check_mk/) and Login with the Credentials.
 	   2. The Default User is: `cmkadmin`
 	   3. The Password is in the logs written for this Container (`docker container logs [name]`) ^a589e5
@@ -85,7 +83,7 @@ Backing up a site with `omd backup` does not require `root` permissions.
 >[!INFO]
 test
 
-> [!hint] 
+> [!] 
 > test
 
 ### Backup/Restore with GUI
