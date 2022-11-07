@@ -74,6 +74,7 @@ In order to create backups on the source system and later 'restore' them on a ta
 *Note: the system platform is not relevant*
 
 ### Backup/Restore with OMD
-
+#### Creating a Backup
+*Note: you can also create backups *
 
 ## Backup/Restore with GUI
