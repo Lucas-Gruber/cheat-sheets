@@ -78,13 +78,14 @@ In order to create backups on the source system and later 'restore' them on a ta
 #### Creating a Backup
 ***Note**: Checkmk also offers the possibility of performing backups and restores without using the command line, via the [GUI](#^78d8ec).*
 
-````ad-note
-~~~javascript
-throw new Error("Oops, I'm a bug.");
+````ad-hint
+title: Note
+
+~~~bash
+omd backup [/path/to/file.tar.gz]
 ~~~
 ````
 
-2. 
 
 ### Backup/Restore with GUI
 tst
