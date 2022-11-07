@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "apps/checkmk.md",
+                "file": "apps/argocd.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "apps/checkmk.md",
+                "file": "apps/argocd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "apps/checkmk.md",
+                "file": "apps/argocd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "apps/checkmk.md"
+                "file": "apps/argocd.md"
               }
             }
           }
@@ -163,6 +163,8 @@
   },
   "active": "2c42193a36962f12",
   "lastOpenFiles": [
+    "apps/checkmk.md",
+    "apps/grafana.md",
     "apps/vaultwarden.md",
     "databases/mysql.md",
     "misc/color-codes.md",
@@ -170,8 +172,6 @@
     "Untitled.md",
     "misc/ssl-security.md",
     "misc/ssl-certs.md",
-    "misc/markdown.md",
-    "misc/http-status-codes.md",
-    "macos/vscode-macos-shortcuts.md"
+    "misc/markdown.md"
   ]
 }
