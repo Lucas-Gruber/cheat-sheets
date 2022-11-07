@@ -44,4 +44,7 @@ Monitor all your Services and Apps
 	   ```
 	4. After starting the container, you can log in to the Checkmk web interface as described at the [Installation of the Raw Edition](#^a589e5).
 
-### As 
+### Bare Metal Installation
+
+#### Debian/Ubuntu
+1. Download the 
