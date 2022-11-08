@@ -113,8 +113,11 @@ In order to create backups on the source system and later 'restore' them on a ta
    >***Note:** The file path refers to the system, not the site.*
 3. Then go back and click on *Backup encryption keys* and create a new key on *Add key*
 4. Specify a meaningful name and a secure password unter *Passphrase*
-   >***Note:** You can download the key in PEM format because you need these keys to restore backups*
+   >***Note:** You can download the key in PEM format because you need these keys to restore backups.*
 
 #### 2. Creating a backup job
+1. Now you can create a new backup job - again on the *Site backup* page on the *Add job* button
+2. 
+
 #### 2. Creating a backup
 #### 3. Restore backup
