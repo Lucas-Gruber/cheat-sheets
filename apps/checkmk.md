@@ -96,7 +96,9 @@ In order to create backups on the source system and later 'restore' them on a ta
 
 >[!o-info] Info
 >>[!note] Note
->>test
+>>You can also restore a site under another name. Simply restore the Backup as root and enter the new site name. Checkmk do the rest for you.
+>>[!note] Note
+>>You can also create a Backup without history 
 
 
 ### Backup/Restore with GUI
