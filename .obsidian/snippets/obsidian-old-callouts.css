@@ -32,7 +32,7 @@
 
 .callout[data-callout="o-abstract"], .callout[data-callout="o-test"] {
   --callout-color: 0, 176, 255;
-  --callout-icon: lucide-pencil;
+  --callout-icon: lucide-clipboard-list;
   --callout-border-width:  0 0 0 4px;
   --callout-border-opacity:  1;
   --callout-radius: 0;
