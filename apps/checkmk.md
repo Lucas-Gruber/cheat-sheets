@@ -157,7 +157,28 @@ test
 
 
 >[!danger] Danger - New callout
->Aliases: ``
+>Aliases: `error`
 
->[!o-info] Info - Old callout
->Aliases:
+>[!o-danger] Danger - Old callout
+>Aliases: `error`
+
+
+>[!bug] Bug - New callout
+>Aliases: -
+
+>[!o-bug] Bug - Old callout
+>Aliases: -
+
+
+>[!example] Danger - New callout
+>Aliases: `error`
+
+>[!o-danger] Danger - Old callout
+>Aliases: `error`
+
+
+>[!danger] Danger - New callout
+>Aliases: `error`
+
+>[!o-danger] Danger - Old callout
+>Aliases: `error`
