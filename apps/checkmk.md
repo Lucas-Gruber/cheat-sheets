@@ -76,19 +76,21 @@ In order to create backups on the source system and later 'restore' them on a ta
 #### Creating a Backup
 ***Note**: Checkmk also offers the possibility of performing backups and restores without using the command line, via the [GUI](#^78d8ec).*
 
-1. Backup to File
+1. Backup
 	1. Backup as Site-User to File
 		   `omd backup [/path/to/file.tar.gz]`
 	2. Backup as Root to File
 		   `omd backup [sitename] [/path/to/file.tar.gz]`
-2. Restore from File
+2. Restore
 	1. as Site-User
 		   `omd restore [path/to/file.tar.gz]`
 	2. as Root
 		   `omd restore [sitename] [path/to/file.tar.gz]`
 
+
+
 >[!note] Note
->You can also restore a site under another name. Simply restore the Backup as
+>You can also restore a site under another name. Simply restore the Backup as root and enter the new site name. Checkmk do the rest for you.
 
 
 ### Backup/Restore with GUI
