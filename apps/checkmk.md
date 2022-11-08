@@ -110,10 +110,10 @@ In order to create backups on the source system and later 'restore' them on a ta
 #### 1. Configuring encrypted backup
 1. Go to backup targets on the *Site backup page* and click on *Add target*
 2. Enter a unique ID, Title and absolute fie path. 
-   >***Note: **The file path refers to the system, not the site.*
+   >***Note:** The file path refers to the system, not the site.*
 3. Then go back and click on *Backup encryption keys* and create a new key on *Add key*
 4. Specify a meaningful name and a secure password unter *Passphrase*
-   >**
+   >***Note:** You can download the key in PEM format because you need these keys to restore backups*
 
 #### 2. Creating a backup job
 #### 2. Creating a backup
