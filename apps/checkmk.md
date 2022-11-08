@@ -90,6 +90,8 @@ In order to create backups on the source system and later 'restore' them on a ta
 ##### 2. Direct over SSH
 1. Source System -> Backup System
 	   `omd backup [sitename] - | ssh user@otherserver "omd restore -"`
+2. Backup System <- Source System
+	   `ssh mysite@checkmkserver "omd backup -" | omd restore -`
 
 
 >[!note] Note
