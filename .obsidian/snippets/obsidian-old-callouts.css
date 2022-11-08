@@ -65,8 +65,8 @@
 }
 
 .callout[data-callout="o-tip"], .callout[data-callout="o-hint"], .callout[data-callout="o-important"] {
-  --callout-color: 68, 138, 255;
-  --callout-icon: lucide-pencil;
+  --callout-color: 0, 191, 165;
+  --callout-icon: lucide-flame;
   --callout-border-width:  0 0 0 4px;
   --callout-border-opacity:  1;
   --callout-radius: 0;
