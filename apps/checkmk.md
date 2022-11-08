@@ -117,7 +117,7 @@ In order to create backups on the source system and later 'restore' them on a ta
 
 #### 2. Creating a backup job
 1. Now you can create a new backup job - again on the *Site backup* page on the *Add job* button
-2. 
+2. Here you can select among other things. The Items you just created under *Target* and *Encryption*. You will also find options for compression and schedu
 
 #### 2. Creating a backup
 #### 3. Restore backup
