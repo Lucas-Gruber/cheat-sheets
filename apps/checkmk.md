@@ -126,4 +126,7 @@ In order to create backups on the source system and later 'restore' them on a ta
 #### 3. Restore backup
 You can restore backups by clicking on Restore on the *Site backup* page
 1. Select the backup target with ![[icon_backup_restore.png]] 
-2. Select the bac
+2. Select the backup to he restored with ![[icon_backup_restore.png]]
+3. Enter the passphrase for the backup key
+4. Start the restore.
+>***Note:** After restoring the site will be restarted, so you will temporar*
