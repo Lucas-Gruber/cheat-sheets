@@ -131,19 +131,19 @@ test
 >[!success] Success - New callout
 >Aliases: `check`, `done`
 
->[!o-success] S - Old callout
->Aliases:
+>[!o-success] Success - Old callout
+>Aliases: `check`, `done`
 
 
->[!info] Info - New callout
->Aliases: -
+>[!question] Question - New callout
+>Aliases: `help`, `faq`
 
->[!o-info] Info - Old callout
->Aliases:
+>[!o-question] Question - Old callout
+>Aliases: `help`, `faq`
 
 
->[!info] Info - New callout
->Aliases: -
+>[!warning] Warning - New callout
+>Aliases: ``
 
 >[!o-info] Info - Old callout
 >Aliases:
