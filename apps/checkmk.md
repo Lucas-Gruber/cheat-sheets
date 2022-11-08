@@ -92,6 +92,20 @@ In order to create backups on the source system and later 'restore' them on a ta
 tst
 test
 
+>[!note] Note - New callout
+>body
+
+>[!o-note] Note - Old callout
+>body
+
+
+>[!tldr] Abstract - New callout
+>body
+
+>[!o-note] custom
+>body
+
+
 >[!note] default theme
 >body
 
@@ -102,8 +116,9 @@ test
 >[!note] default theme
 >body
 
->[!o-note]- custom
+>[!o-note] custom
 >body
+
 
 >[!note] default theme
 >body
@@ -111,11 +126,6 @@ test
 >[!o-note] custom
 >body
 
->[!note] default theme
->body
-
->[!o-note] custom
->body
 
 >[!note] default theme
 >body
@@ -123,11 +133,6 @@ test
 >[!o-note] custom
 >body
 
->[!note] default theme
->body
-
->[!o-note] custom
->body
 
 >[!note] default theme
 >body
@@ -135,11 +140,13 @@ test
 >[!o-note] custom
 >body
 
+
 >[!note] default theme
 >body
 
 >[!o-note] custom
 >body
+
 
 >[!note] default theme
 >body
