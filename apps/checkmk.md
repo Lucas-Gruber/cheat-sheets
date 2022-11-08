@@ -89,13 +89,14 @@ In order to create backups on the source system and later 'restore' them on a ta
 		   `omd restore [sitename] [path/to/file.tar.gz]`
 ##### 2. Direct over SSH
 1. Source System -> Backup System
-	   `omd backup [sitename] - | ssh user@otherserver "omd restore -"`
+	   `omd backup ([sitename]) - | ssh user@otherserver "omd restore -"`
 2. Backup System <- Source System
-	   `ssh mysite@checkmkserver "omd backup -" | omd restore -`
+	   `ssh mysite@checkmkserver "omd backup ([sitename]) -" | omd restore -`
 
 
->[!note] Note
->You can also restore a site under another name. Simply restore the Backup as root and enter the new site name. Checkmk do the rest for you.
+>[!o-info] Info
+>>[!note] Note
+>>test
 
 
 ### Backup/Restore with GUI
