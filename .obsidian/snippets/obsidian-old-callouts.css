@@ -30,7 +30,7 @@
   background-color: var(--background-primary-alt)
 }
 
-.callout[data-callout="o-abstract"], .callout[data-callout="o-test"] {
+.callout[data-callout="o-abstract"], .callout[data-callout="o-summary"], .callout[data-callout="o-tldr"] {
   --callout-color: 0, 176, 255;
   --callout-icon: lucide-clipboard-list;
   --callout-border-width:  0 0 0 4px;
@@ -40,9 +40,9 @@
   --callout-title-padding:  var(--size-4-4) var(--size-4-4);
   --callout-content-padding:  var(--size-4-2) var(--size-4-4);
 }
-.callout[data-callout="o-abstract"] .callout-title-inner, .callout[data-callout="o-test"] .callout-title-inner {
+.callout[data-callout="o-abstract"] .callout-title-inner, .callout[data-callout="o-summary"] .callout-title-inner, .callout[data-callout="o-tldr"] .callout-title-inner {
   color: var(--text-normal);
 }
-.callout[data-callout="o-abstract"] .callout-content, .callout[data-callout="o-test"] .callout-content {
+.callout[data-callout="o-abstract"] .callout-content, .callout[data-callout="o-summary"] .callout-content, .callout[data-callout="o-tldr"] .callout-content {
   background-color: var(--background-primary-alt)
 }
