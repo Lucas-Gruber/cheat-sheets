@@ -17,3 +17,6 @@
   --callout-color: 68, 138, 255;
   --callout-icon: lucide-pencil;
 }
+/* .callout[data-callout="test"] .callout-title-inner {
+  color: var(--text-normal);
+} */
