@@ -170,15 +170,15 @@ test
 >Aliases: -
 
 
->[!example] Danger - New callout
->Aliases: `error`
+>[!example] Example - New callout
+>Aliases: -
 
->[!o-danger] Danger - Old callout
->Aliases: `error`
+>[!o-example] Example - Old callout
+>Aliases: -
 
 
->[!danger] Danger - New callout
->Aliases: `error`
+>[!quote] Quote - New callout
+>Aliases: `cite`
 
->[!o-danger] Danger - Old callout
->Aliases: `error`
+>[!o-quote] Quote - Old callout
+>Aliases: `cite`
