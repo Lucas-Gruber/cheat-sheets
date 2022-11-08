@@ -114,3 +114,20 @@
 .callout[data-callout="o-question"] .callout-content, .callout[data-callout="o-help"] .callout-content, .callout[data-callout="o-faq"] .callout-content {
   background-color: var(--background-primary-alt)
 }
+
+.callout[data-callout="o-warning"], .callout[data-callout="o-caution"], .callout[data-callout="o-attention"] {
+  --callout-color: 255, 145, 0;
+  --callout-icon: lucide-alert-triangle;
+  --callout-border-width:  0 0 0 4px;
+  --callout-border-opacity:  1;
+  --callout-radius: 0;
+  --callout-padding: 0;
+  --callout-title-padding:  var(--size-4-4) var(--size-4-4);
+  --callout-content-padding:  var(--size-4-2) var(--size-4-4);
+}
+.callout[data-callout="o-warning"] .callout-title-inner, .callout[data-callout="o-caution"] .callout-title-inner, .callout[data-callout="o-attention"] .callout-title-inner {
+  color: var(--text-normal);
+}
+.callout[data-callout="o-warning"] .callout-content, .callout[data-callout="o-caution"] .callout-content, .callout[data-callout="o-attention"] .callout-content {
+  background-color: var(--background-primary-alt)
+}
