@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "apps/checkmk.md",
+                "file": "linux/awk.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "apps/checkmk.md",
+                "file": "linux/awk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "apps/checkmk.md",
+                "file": "linux/awk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "apps/checkmk.md"
+                "file": "linux/awk.md"
               }
             }
           }
@@ -138,9 +138,9 @@
   },
   "active": "7606f83ef9dc8554",
   "lastOpenFiles": [
+    "apps/checkmk.md",
     "apps/argocd.md",
     "apps/cert-manager.md",
-    "apps/checkmk.md",
     "apps/grafana.md",
     "apps/nginx.md",
     "kubernetes/k3s-install-ha-externaldb.md",
