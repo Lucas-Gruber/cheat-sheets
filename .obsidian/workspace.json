@@ -166,15 +166,15 @@
   },
   "active": "c70f033540037e81",
   "lastOpenFiles": [
-    "apps/grafana.md",
+    "apps/argocd.md",
     "apps/checkmk.md",
+    "apps/grafana.md",
     "apps/nginx.md",
     "kubernetes/k3s-install-ha-externaldb.md",
     "kubernetes/k3s.md",
     "infra/truenas-scale.md",
     "infra/proxmox.md",
     "docker/docker-networking.md",
-    "docker/docker.md",
-    "apps/kasm.md"
+    "docker/docker.md"
   ]
 }

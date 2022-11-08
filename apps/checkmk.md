@@ -122,13 +122,13 @@ Monitor all your Services and Apps
 2. Here you can select among other things. The Items you just created under *Target* and *Encryption*. You will also find options for compression and scheduling backups. Enter all the options to your needs.
 
 #### 2. Creating a backup
-1. On the *Site backup* page you should now see your finished backup job and start using ![[icon_backup_start.png]]
+1. On the *Site backup* page you should now see your finished backup job and start using
 
 
 #### 3. Restore backup
 You can restore backups by clicking on Restore on the *Site backup* page
-1. Select the backup target with ![[icon_backup_restore.png]] 
-2. Select the backup to he restored with ![[icon_backup_restore.png]]
+1. Select the backup target with
+2. Select the backup to he restored with
 3. Enter the passphrase for the backup key
 4. Start the restore.
 >***Note:** After restoring the site will be restarted, so you will temporarily see an HTTP 503 error message.*
