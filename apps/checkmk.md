@@ -152,12 +152,12 @@ test
 >[!failure] Failure - New callout
 >Aliases: `fail`, `missing`
 
->[!o-info] Info - Old callout
->Aliases:
+>[!o-failure] Failure - Old callout
+>Aliases: `fail`, `missing`
 
 
->[!info] Info - New callout
->Aliases: -
+>[!danger] Danger - New callout
+>Aliases: ``
 
 >[!o-info] Info - Old callout
 >Aliases:
