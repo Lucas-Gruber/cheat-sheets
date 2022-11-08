@@ -2,10 +2,6 @@
   "accentColor": "",
   "showViewHeader": false,
   "cssTheme": "",
-  "enabledCssSnippets": [
-    "obsidian",
-    "snippet — colored-folders",
-    "snippet — custom-list-styles__adding-decimals"
-  ],
-  "theme": "moonstone"
+  "enabledCssSnippets": [],
+  "theme": "obsidian"
 }
