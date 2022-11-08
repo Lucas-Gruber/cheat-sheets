@@ -95,3 +95,4 @@ test
 >[!note] default theme
 
 >[!test] custom
+>body
