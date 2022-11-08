@@ -92,6 +92,7 @@ In order to create backups on the source system and later 'restore' them on a ta
 tst
 test
 
+
 >[!note] Note - New callout
 >Aliases: Fallback for everything
 
@@ -100,56 +101,63 @@ test
 
 
 >[!tldr] Abstract - New callout
->body
+>Aliases: summary, tldr
 
 >[!o-tldr] Abstract - Old callout
->body
+>Aliases: summary, tldr
 
 
->[!note] default theme
->body
+>[!info] Info - New callout
+>Aliases: -
 
->[!o-note] custom
->body
-
-
->[!note] default theme
->body
-
->[!o-note] custom
->body
+>[!o-info] Info - Old callout
+>Aliases:
 
 
->[!note] default theme
->body
+>[!note] Note - New callout
+>Aliases: Fallback for everything
 
->[!o-note] custom
->body
-
-
->[!note] default theme
->body
-
->[!o-note] custom
->body
+>[!o-note] Note - Old callout
+>Fallback for everything with the prefix `o-` (when you use the extra-option)
 
 
->[!note] default theme
->body
+>[!note] Note - New callout
+>Aliases: Fallback for everything
 
->[!o-note] custom
->body
-
-
->[!note] default theme
->body
-
->[!o-note] custom
->body
+>[!o-note] Note - Old callout
+>Fallback for everything with the prefix `o-` (when you use the extra-option)
 
 
->[!note] default theme
->body
+>[!note] Note - New callout
+>Aliases: Fallback for everything
 
->[!o-note] custom
->body
+>[!o-note] Note - Old callout
+>Fallback for everything with the prefix `o-` (when you use the extra-option)
+
+
+>[!note] Note - New callout
+>Aliases: Fallback for everything
+
+>[!o-note] Note - Old callout
+>Fallback for everything with the prefix `o-` (when you use the extra-option)
+
+
+>[!note] Note - New callout
+>Aliases: Fallback for everything
+
+>[!o-note] Note - Old callout
+>Fallback for everything with the prefix `o-` (when you use the extra-option)
+
+
+>[!note] Note - New callout
+>Aliases: Fallback for everything
+
+>[!o-note] Note - Old callout
+>Fallback for everything with the prefix `o-` (when you use the extra-option)
+
+
+>[!note] Note - New callout
+>Aliases: Fallback for everything
+
+>[!o-note] Note - Old callout
+>Fallback for everything with the prefix `o-` (when you use the extra-option)
