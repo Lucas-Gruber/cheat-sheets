@@ -1,18 +1,3 @@
-/* body {
-  --callout-border-width:  0 0 0 4px;
-  --callout-border-opacity:  1;
-  --callout-radius: 0;
-  --callout-padding: 0;
-  --callout-title-padding:  var(--size-4-4) var(--size-4-4);
-  --callout-content-padding:  var(--size-4-2) var(--size-4-4);
-}
-.callout-title-inner {
-  color: var(--text-normal);
-}
-.callout-content {
-  background-color: var(--background-primary-alt);
-} */
-
 .callout[data-callout^="o-"] {
   --callout-color: 68, 138, 255;
   --callout-icon: lucide-pencil;
@@ -200,9 +185,9 @@
   background-color: var(--background-primary-alt)
 }
 
-.callout[data-callout="o-quote"] {
-  --callout-color: 245, 0, 87;
-  --callout-icon: lucide-quote;
+.callout[data-callout="o-quote"], .callout[data-callout="o-cite"] {
+  --callout-color: 158, 158, 158;
+  --callout-icon: quote-glyph;
   --callout-border-width:  0 0 0 4px;
   --callout-border-opacity:  1;
   --callout-radius: 0;
@@ -210,9 +195,9 @@
   --callout-title-padding:  var(--size-4-4) var(--size-4-4);
   --callout-content-padding:  var(--size-4-2) var(--size-4-4);
 }
-.callout[data-callout="o-quote"] .callout-title-inner {
+.callout[data-callout="o-quote"] .callout-title-inner, .callout[data-callout="o-cite"] .callout-title-inner {
   color: var(--text-normal);
 }
-.callout[data-callout="o-quote"] .callout-content {
+.callout[data-callout="o-quote"] .callout-content, .callout[data-callout="o-cite"] .callout-content {
   background-color: var(--background-primary-alt)
 }
