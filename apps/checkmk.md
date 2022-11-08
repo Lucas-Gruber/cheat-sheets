@@ -65,13 +65,12 @@ Monitor all your Services and Apps
 ## Backup/Restore for Sites
 
 ### Prerequisites
->info
 >[!warning]
 >In order to create backups on the source system ater 'restore' them on a target system, two main requirements must be met:
 >1. The exact same Checkmk version must be installed on both systems, e.g. `2.1.0p1`.
 >2. Both systems must have the same Checkmk edition installed, e.g. `Checkmk Raw Edition`
->#
->[!note]
+
+>[!o-note] Note
 >The system platform is not relevant
 
 
