@@ -88,7 +88,8 @@ In order to create backups on the source system and later 'restore' them on a ta
 	2. as Root
 		   `omd restore [sitename] [path/to/file.tar.gz]`
 ##### 2. Direct over SSH
-1. 
+1. Source System -> Backup System
+	   `omd backup [sitename] - | ssh user@otherserver "omd restore -"`
 
 
 >[!note] Note
