@@ -95,9 +95,9 @@ test
 >[!info] default theme
 >body
 
->[!o-] custom
+>[!o-info] custom
 >body
 
 
->[!o-tldr] custom
+>[!o-] custom
 >body
