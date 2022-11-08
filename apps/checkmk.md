@@ -101,10 +101,10 @@ test
 
 
 >[!tldr] Abstract - New callout
->Aliases: `
+>Aliases: `summary, tldr`
 
 >[!o-tldr] Abstract - Old callout
->Aliases: summary, tldr
+>Aliases: `summary, tldr`
 
 
 >[!info] Info - New callout
@@ -122,16 +122,16 @@ test
 
 
 >[!tip] Tip - New callout
->Aliases: hint, important
+>Aliases: `hint, important`
 
->[!o-info] Info - Old callout
->Aliases:
+>[!o-tip] Tip - Old callout
+>Aliases: `hint, important`
 
 
->[!info] Info - New callout
->Aliases: -
+>[!success] Success - New callout
+>Aliases: `check`, `done`
 
->[!o-info] Info - Old callout
+>[!o-success] S - Old callout
 >Aliases:
 
 
