@@ -95,7 +95,7 @@ test
 >[!info] default theme
 >body
 
->[!o-info] custom
+>[!o-tip] custom
 >body
 
 
