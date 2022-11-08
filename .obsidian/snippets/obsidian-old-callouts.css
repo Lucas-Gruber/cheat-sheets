@@ -13,7 +13,7 @@
   background-color: var(--background-primary-alt);
 } */
 
-.callout[data-callout="test"] {
+.callout[data-callout="o-note"] {
   --callout-color: 68, 138, 255;
   --callout-icon: lucide-pencil;
   --callout-border-width:  0 0 0 4px;
@@ -23,9 +23,26 @@
   --callout-title-padding:  var(--size-4-4) var(--size-4-4);
   --callout-content-padding:  var(--size-4-2) var(--size-4-4);
 }
-.callout[data-callout="test"] .callout-title-inner {
+.callout[data-callout="o-note"] .callout-title-inner {
   color: var(--text-normal);
 }
-.callout[data-callout="test"] .callout-content {
+.callout[data-callout="o-note"] .callout-content {
+  background-color: var(--background-primary-alt)
+}
+
+.callout[data-callout="o-note"] {
+  --callout-color: 68, 138, 255;
+  --callout-icon: lucide-pencil;
+  --callout-border-width:  0 0 0 4px;
+  --callout-border-opacity:  1;
+  --callout-radius: 0;
+  --callout-padding: 0;
+  --callout-title-padding:  var(--size-4-4) var(--size-4-4);
+  --callout-content-padding:  var(--size-4-2) var(--size-4-4);
+}
+.callout[data-callout="o-note"] .callout-title-inner {
+  color: var(--text-normal);
+}
+.callout[data-callout="o-note"] .callout-content {
   background-color: var(--background-primary-alt)
 }
