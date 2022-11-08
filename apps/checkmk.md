@@ -87,9 +87,8 @@ In order to create backups on the source system and later 'restore' them on a ta
 	2. as Root
 		   `omd restore [sitename] [path/to/file.tar.gz]`
 
-> [!note]+
-> u can also restore a site with different name. everything you have to do is typing as root simply an different sitename and checkmk makes the rest
-
+>[!note] title
+>body
 
 
 ### Backup/Restore with GUI
