@@ -94,5 +94,4 @@ test
 
 >[!note] default theme
 
->[!test]
->test
+>[!test] custom
