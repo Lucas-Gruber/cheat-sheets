@@ -65,7 +65,8 @@ Monitor all your Services and Apps
 ## Backup/Restore for Sites
 
 ### Prerequisites
-In order to create backups on the source system and later 'restore' them on a target system, two main requirements must be met:
+>[!warning]
+in order to create backups on the source system and later 'restore' them on a target system, two main requirements must be met:
 1. The exact same Checkmk version must be installed on both systems, e.g. `2.1.0p1`.
 2. Both systems must have the same Checkmk edition installed, e.g. the **Checkmk Raw Edition**
 
@@ -129,4 +130,4 @@ You can restore backups by clicking on Restore on the *Site backup* page
 2. Select the backup to he restored with ![[icon_backup_restore.png]]
 3. Enter the passphrase for the backup key
 4. Start the restore.
->***Note:** After restoring the site will be restarted, so you will temporar*
+>***Note:** After restoring the site will be restarted, so you will temporarily see an HTTP 503 error message.*
