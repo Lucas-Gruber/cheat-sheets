@@ -99,5 +99,50 @@ test
 >body
 
 
->[!o-] custom
+>[!note] default theme
+>body
+
+>[!o-note]- custom
+>body
+
+>[!note] default theme
+>body
+
+>[!o-note] custom
+>body
+
+>[!note] default theme
+>body
+
+>[!o-note] custom
+>body
+
+>[!note] default theme
+>body
+
+>[!o-note] custom
+>body
+
+>[!note] default theme
+>body
+
+>[!o-note] custom
+>body
+
+>[!note] default theme
+>body
+
+>[!o-note] custom
+>body
+
+>[!note] default theme
+>body
+
+>[!o-note] custom
+>body
+
+>[!note] default theme
+>body
+
+>[!o-note] custom
 >body
