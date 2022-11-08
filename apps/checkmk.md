@@ -123,4 +123,5 @@ In order to create backups on the source system and later 'restore' them on a ta
 1. On the *Site backup* page you should now see your finished backupo jib and can start using the green play-button
 
 #### 3. Restore backup
-1. You can start 
+You can restore backups by clicking on Restore on the *Site backup* page
+1. Select the backup target with 
