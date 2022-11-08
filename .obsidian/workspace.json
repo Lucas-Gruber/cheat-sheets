@@ -4,47 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4f8645c1ba8e76b1",
+        "id": "abb3a2a84c7fa26f",
         "type": "tabs",
         "children": [
           {
-            "id": "c70f033540037e81",
+            "id": "7606f83ef9dc8554",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "apps/argocd.md",
+                "file": "apps/checkmk.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "755b48a9de2db4f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "apps/argocd.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b25ac53b02211887",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "b5d97bb600c6983a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -113,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "apps/argocd.md",
+                "file": "apps/checkmk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "apps/argocd.md",
+                "file": "apps/checkmk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "apps/argocd.md"
+                "file": "apps/checkmk.md"
               }
             }
           }
@@ -164,10 +136,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c70f033540037e81",
+  "active": "7606f83ef9dc8554",
   "lastOpenFiles": [
-    "apps/cert-manager.md",
     "apps/argocd.md",
+    "apps/cert-manager.md",
     "apps/checkmk.md",
     "apps/grafana.md",
     "apps/nginx.md",
