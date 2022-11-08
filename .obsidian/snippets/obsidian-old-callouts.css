@@ -1,4 +1,4 @@
-body {
+/* body {
   --callout-border-width:  0 0 0 4px;
   --callout-border-opacity:  1;
   --callout-radius: 0;
@@ -11,4 +11,16 @@ body {
 }
 .callout-content {
   background-color: var(--background-primary-alt);
+} */
+
+.callout[data-callout="test"] {
+  --callout-color: 0, 0, 0;
+  --callout-icon: icon-id;
+  --callout-icon: '<svg>...custom svg...</svg>';
+  --callout-border-width:  0 0 0 4px;
+  --callout-border-opacity:  1;
+  --callout-radius: 0;
+  --callout-padding: 0;
+  --callout-title-padding:  var(--size-4-4) var(--size-4-4);
+  --callout-content-padding:  var(--size-4-2) var(--size-4-4);
 }
