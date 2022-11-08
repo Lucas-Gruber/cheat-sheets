@@ -117,7 +117,7 @@ test
 >[!todo] Todo - New callout
 >Aliases: -
 
->[!o-Todo] Todo - Old callout
+>[!o-todo] Todo - Old callout
 >Aliases:
 
 
