@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "apps/checkmk.md",
+                "file": "linux/awk.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "apps/checkmk.md",
+                "file": "linux/awk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "apps/checkmk.md",
+                "file": "linux/awk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "apps/checkmk.md"
+                "file": "linux/awk.md"
               }
             }
           }
@@ -138,8 +138,8 @@
   },
   "active": "7606f83ef9dc8554",
   "lastOpenFiles": [
-    "linux/iptables.md",
     "apps/checkmk.md",
+    "linux/iptables.md",
     "apps/nginx.md",
     "linux/awk.md",
     "apps/argocd.md",
