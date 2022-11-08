@@ -2,6 +2,8 @@
   "accentColor": "",
   "showViewHeader": false,
   "cssTheme": "",
-  "enabledCssSnippets": [],
+  "enabledCssSnippets": [
+    "obsidian-old-callouts"
+  ],
   "theme": "obsidian"
 }
