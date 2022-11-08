@@ -20,7 +20,7 @@ Monitor all your Services and Apps
 	   checkmk/check-mk-raw:2.1.0-latest
    2. Navigate to [http://localhost:8080/cmk/check_mk/](http://localhost:8080/cmk/check_mk/) and Login with the Credentials.
 	   2. The Default User is: `cmkadmin`
-	   3. The Password is in the logs written for this Container (`docker container logs [name]`) ^a589e5
+	   3. The Password is in the logs written for this Container (`docker container logs [name]`) 
 
 #### Enterprise-Edition
 1. Run Docker.
