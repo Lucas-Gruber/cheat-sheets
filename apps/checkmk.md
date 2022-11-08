@@ -109,3 +109,5 @@ In order to create backups on the source system and later 'restore' them on a ta
 ### Backup/Restore with GUI
 #### 1. Configuring encrypted backup
 #### 2. Creating a backup job
+#### 2. Creating a backup
+#### 3. Restore backup
