@@ -143,14 +143,14 @@ test
 
 
 >[!warning] Warning - New callout
->Aliases: ``
+>Aliases: `caution`, `attention`
 
->[!o-info] Info - Old callout
->Aliases:
+>[!o-warning] Warning - Old callout
+>Aliases: `caution`, `attention`
 
 
->[!info] Info - New callout
->Aliases: -
+>[!failure] Failure - New callout
+>Aliases: `fail`, `missing`
 
 >[!o-info] Info - Old callout
 >Aliases:
