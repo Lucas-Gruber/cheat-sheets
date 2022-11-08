@@ -93,6 +93,7 @@ tst
 test
 
 >[!note] default theme
+>body
 
 >[!test] custom
 >body
