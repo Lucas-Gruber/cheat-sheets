@@ -93,16 +93,16 @@ tst
 test
 
 >[!note] Note - New callout
->body
+>Aliases: Fallback for everything
 
 >[!o-note] Note - Old callout
->body
+>Fallback for everything with the prefix `o-` (when you use the extra-option)
 
 
 >[!tldr] Abstract - New callout
 >body
 
->[!o-note] custom
+>[!o-tldr] Abstract - Old callout
 >body
 
 
