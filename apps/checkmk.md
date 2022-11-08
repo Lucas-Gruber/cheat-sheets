@@ -95,5 +95,9 @@ test
 >[!abstract] default theme
 >body
 
->[!o-note] custom
+>[!o-] custom
+>body
+
+
+>[!o-abstract] custom
 >body
