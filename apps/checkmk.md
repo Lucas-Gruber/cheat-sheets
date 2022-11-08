@@ -97,7 +97,7 @@ test
 >Aliases: Fallback for everything
 
 >[!o-note] Note - Old callout
->Fallback for everything with the prefix `o-` (when you use the extra-option)
+>Aliases: Fallback for everything with the prefix `o-` (when you use the extra-option)
 
 
 >[!tldr] Abstract - New callout
@@ -114,50 +114,50 @@ test
 >Aliases:
 
 
->[!note] Note - New callout
->Aliases: Fallback for everything
+>[!todo] Todo - New callout
+>Aliases: -
 
->[!o-note] Note - Old callout
->Fallback for everything with the prefix `o-` (when you use the extra-option)
-
-
->[!note] Note - New callout
->Aliases: Fallback for everything
-
->[!o-note] Note - Old callout
->Fallback for everything with the prefix `o-` (when you use the extra-option)
+>[!o-Todo] Todo - Old callout
+>Aliases:
 
 
->[!note] Note - New callout
->Aliases: Fallback for everything
+>[!info] Info - New callout
+>Aliases: -
 
->[!o-note] Note - Old callout
->Fallback for everything with the prefix `o-` (when you use the extra-option)
-
-
->[!note] Note - New callout
->Aliases: Fallback for everything
-
->[!o-note] Note - Old callout
->Fallback for everything with the prefix `o-` (when you use the extra-option)
+>[!o-info] Info - Old callout
+>Aliases:
 
 
->[!note] Note - New callout
->Aliases: Fallback for everything
+>[!info] Info - New callout
+>Aliases: -
 
->[!o-note] Note - Old callout
->Fallback for everything with the prefix `o-` (when you use the extra-option)
-
-
->[!note] Note - New callout
->Aliases: Fallback for everything
-
->[!o-note] Note - Old callout
->Fallback for everything with the prefix `o-` (when you use the extra-option)
+>[!o-info] Info - Old callout
+>Aliases:
 
 
->[!note] Note - New callout
->Aliases: Fallback for everything
+>[!info] Info - New callout
+>Aliases: -
 
->[!o-note] Note - Old callout
->Fallback for everything with the prefix `o-` (when you use the extra-option)
+>[!o-info] Info - Old callout
+>Aliases:
+
+
+>[!info] Info - New callout
+>Aliases: -
+
+>[!o-info] Info - Old callout
+>Aliases:
+
+
+>[!info] Info - New callout
+>Aliases: -
+
+>[!o-info] Info - Old callout
+>Aliases:
+
+
+>[!info] Info - New callout
+>Aliases: -
+
+>[!o-info] Info - Old callout
+>Aliases:
