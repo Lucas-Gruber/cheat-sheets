@@ -49,6 +49,23 @@
   background-color: var(--background-primary-alt)
 }
 
+.callout[data-callout="o-todo"] {
+  --callout-color: 0, 184, 212;
+  --callout-icon: lucide-check-circle-2;
+  --callout-border-width:  0 0 0 4px;
+  --callout-border-opacity:  1;
+  --callout-radius: 0;
+  --callout-padding: 0;
+  --callout-title-padding:  var(--size-4-4) var(--size-4-4);
+  --callout-content-padding:  var(--size-4-2) var(--size-4-4);
+}
+.callout[data-callout="o-todo"] .callout-title-inner {
+  color: var(--text-normal);
+}
+.callout[data-callout="o-todo"] .callout-content {
+  background-color: var(--background-primary-alt)
+}
+
 .callout[data-callout="o-tip"], .callout[data-callout="o-hint"], .callout[data-callout="o-important"] {
   --callout-color: 0, 191, 165;
   --callout-icon: lucide-flame;

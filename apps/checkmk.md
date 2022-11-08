@@ -101,7 +101,7 @@ test
 
 
 >[!tldr] Abstract - New callout
->Aliases: summary, tldr
+>Aliases: `
 
 >[!o-tldr] Abstract - Old callout
 >Aliases: summary, tldr
@@ -121,8 +121,8 @@ test
 >Aliases:
 
 
->[!info] Info - New callout
->Aliases: -
+>[!tip] Tip - New callout
+>Aliases: hint, important
 
 >[!o-info] Info - Old callout
 >Aliases:
