@@ -81,7 +81,9 @@ In order to create backups on the source system and later 'restore' them on a ta
 		   `omd backup [/path/to/file.tar.gz]`
 	2. Backup as Root to File
 		   `omd backup [sitename] [/path/to/file.tar.gz]`
-2. 
+2. Restore from File
+	1. as Site-User
+		   *
 
 
 ### Backup/Restore with GUI
