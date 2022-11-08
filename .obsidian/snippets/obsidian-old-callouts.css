@@ -40,9 +40,9 @@
   --callout-title-padding:  var(--size-4-4) var(--size-4-4);
   --callout-content-padding:  var(--size-4-2) var(--size-4-4);
 }
-.callout[data-callout="o-abstract"] .callout-title-inner {
+.callout[data-callout="o-abstract"], .callout[data-callout="o-test"] .callout-title-inner {
   color: var(--text-normal);
 }
-.callout[data-callout="o-abstract"] .callout-content {
+.callout[data-callout="o-abstract"], .callout[data-callout="o-test"] .callout-content {
   background-color: var(--background-primary-alt)
 }
