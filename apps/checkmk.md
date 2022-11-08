@@ -92,7 +92,7 @@ In order to create backups on the source system and later 'restore' them on a ta
 tst
 test
 
->[!hint] default theme
+>[!done] default theme
 >body
 
 >[!o-tip] custom
