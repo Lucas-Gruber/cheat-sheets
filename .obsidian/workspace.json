@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "arguments",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,15 +166,15 @@
   },
   "active": "c70f033540037e81",
   "lastOpenFiles": [
+    "apps/nginx.md",
+    "apps/checkmk.md",
     "kubernetes/k3s-install-ha-externaldb.md",
     "kubernetes/k3s.md",
     "infra/truenas-scale.md",
     "infra/proxmox.md",
-    "apps/checkmk.md",
     "docker/docker-networking.md",
     "apps/grafana.md",
     "docker/docker.md",
-    "apps/kasm.md",
-    "apps/argocd.md"
+    "apps/kasm.md"
   ]
 }
