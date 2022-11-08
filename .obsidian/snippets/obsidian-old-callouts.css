@@ -131,3 +131,20 @@
 .callout[data-callout="o-warning"] .callout-content, .callout[data-callout="o-caution"] .callout-content, .callout[data-callout="o-attention"] .callout-content {
   background-color: var(--background-primary-alt)
 }
+
+.callout[data-callout="o-failure"], .callout[data-callout="o-fail"], .callout[data-callout="o-missing"] {
+  --callout-color: 255, 82, 82;
+  --callout-icon: lucide-x;
+  --callout-border-width:  0 0 0 4px;
+  --callout-border-opacity:  1;
+  --callout-radius: 0;
+  --callout-padding: 0;
+  --callout-title-padding:  var(--size-4-4) var(--size-4-4);
+  --callout-content-padding:  var(--size-4-2) var(--size-4-4);
+}
+.callout[data-callout="o-failure"] .callout-title-inner, .callout[data-callout="o-fail"] .callout-title-inner, .callout[data-callout="o-missing"] .callout-title-inner {
+  color: var(--text-normal);
+}
+.callout[data-callout="o-failure"] .callout-content, .callout[data-callout="o-fail"] .callout-content, .callout[data-callout="o-missing"] .callout-content {
+  background-color: var(--background-primary-alt)
+}
