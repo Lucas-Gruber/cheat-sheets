@@ -218,3 +218,7 @@
 .callout[data-callout="o-quote"] .callout-content, .callout[data-callout="o-cite"] .callout-content {
   background-color: var(--background-primary-alt)
 }
+
+.cm-s-obsidian span.cm-inline-code {
+  color: yellow;
+}
