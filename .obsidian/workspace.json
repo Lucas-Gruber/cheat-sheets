@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "windows/windows-updates.md",
+                "file": "macos/vscode-macos-shortcuts.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "windows/windows-updates.md",
+                "file": "macos/vscode-macos-shortcuts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "windows/windows-updates.md",
+                "file": "macos/vscode-macos-shortcuts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "windows/windows-updates.md"
+                "file": "macos/vscode-macos-shortcuts.md"
               }
             }
           },
@@ -147,15 +147,15 @@
   },
   "active": "7606f83ef9dc8554",
   "lastOpenFiles": [
+    "tools/vscode.md",
+    "tools/iterm2.md",
     "windows/powershell.md",
+    "windows/windows-terminal.md",
+    "windows/windows-updates.md",
     "windows/chocolatey.md",
     "apps/checkmk.md",
     "linux/awk.md",
     "linux/iptables.md",
-    "apps/nginx.md",
-    "apps/argocd.md",
-    "apps/cert-manager.md",
-    "apps/grafana.md",
-    "kubernetes/k3s-install-ha-externaldb.md"
+    "apps/nginx.md"
   ]
 }
