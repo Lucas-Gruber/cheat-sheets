@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "apps/checkmk.md",
+                "file": "windows/windows-updates.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "apps/checkmk.md",
+                "file": "windows/windows-updates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "apps/checkmk.md",
+                "file": "windows/windows-updates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "apps/checkmk.md"
+                "file": "windows/windows-updates.md"
               }
             }
+          },
+          {
+            "id": "89a93d8d53723282",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -138,15 +147,15 @@
   },
   "active": "7606f83ef9dc8554",
   "lastOpenFiles": [
-    "linux/awk.md",
+    "windows/powershell.md",
+    "windows/chocolatey.md",
     "apps/checkmk.md",
+    "linux/awk.md",
     "linux/iptables.md",
     "apps/nginx.md",
     "apps/argocd.md",
     "apps/cert-manager.md",
     "apps/grafana.md",
-    "kubernetes/k3s-install-ha-externaldb.md",
-    "kubernetes/k3s.md",
-    "infra/truenas-scale.md"
+    "kubernetes/k3s-install-ha-externaldb.md"
   ]
 }
