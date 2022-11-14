@@ -1,5 +1,5 @@
 {
-  "readableLineLength": true,
+  "readableLineLength": false,
   "showInlineTitle": false,
   "pdfExportSettings": {
     "pageSize": "Letter",
