@@ -126,7 +126,6 @@ Monitor all your Services and Apps
 #### 2. Creating a backup
 1. On the *Site backup* page you should now see your finished backup job and start using ![[icon_backup_start.png]]
 
-
 #### 3. Restore backup
 You can restore backups by clicking on Restore on the *Site backup* page
 1. Select the backup target with ![[icon_backup_restore.png]] 
