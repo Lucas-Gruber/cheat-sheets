@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "macos/vscode-macos-shortcuts.md",
+                "file": "apps/checkmk.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "macos/vscode-macos-shortcuts.md",
+                "file": "apps/checkmk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "macos/vscode-macos-shortcuts.md",
+                "file": "apps/checkmk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "macos/vscode-macos-shortcuts.md"
+                "file": "apps/checkmk.md"
               }
             }
           },
@@ -147,6 +147,7 @@
   },
   "active": "7606f83ef9dc8554",
   "lastOpenFiles": [
+    "macos/vscode-macos-shortcuts.md",
     "tools/vscode.md",
     "tools/iterm2.md",
     "windows/powershell.md",
@@ -155,7 +156,6 @@
     "windows/chocolatey.md",
     "apps/checkmk.md",
     "linux/awk.md",
-    "linux/iptables.md",
-    "apps/nginx.md"
+    "linux/iptables.md"
   ]
 }
