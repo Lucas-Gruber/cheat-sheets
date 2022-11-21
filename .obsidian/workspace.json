@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/markdown.md",
+                "file": "apps/checkmk.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "markdown",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/markdown.md",
+                "file": "apps/checkmk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc/markdown.md",
+                "file": "apps/checkmk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "misc/markdown.md"
+                "file": "apps/checkmk.md"
               }
             }
           },
@@ -148,6 +147,7 @@
   },
   "active": "7606f83ef9dc8554",
   "lastOpenFiles": [
+    "misc/markdown.md",
     "apps/checkmk.md",
     "macos/vscode-macos-shortcuts.md",
     "tools/vscode.md",
@@ -156,7 +156,6 @@
     "windows/windows-terminal.md",
     "windows/windows-updates.md",
     "windows/chocolatey.md",
-    "linux/awk.md",
-    "linux/iptables.md"
+    "linux/awk.md"
   ]
 }
